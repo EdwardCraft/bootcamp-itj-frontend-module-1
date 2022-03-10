@@ -81,7 +81,7 @@
 
 .blog-post-details a {
   font-weight: bold;
-  color: var(--green-medium-color) !important;
+  color: var(--green-medium-color);
   text-decoration: none !important;
 }
 
